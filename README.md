@@ -1,6 +1,5 @@
 # E-commerce
-<h1 align="center" id="title">E-commerce</h1> <br>
-
+ <br>
 <p id="description">The e-commerce website is an online platform designed to allow users to search browse and purchase a variety of products. It provides an intuitive and secure user experience for both buyers and sellers.</p>
 
   
