@@ -23,4 +23,4 @@ Technologies used in the project:
 - [MySQL](https://www.mysql.com/): Relational database management system.
 - [React](https://reactjs.org/): JavaScript library for building user interfaces.
 - [GitHub](https://github.com/): Collaborative development and source code management platform.
-- [Figma](https://www.figma.com/): User interface design tool.
+- [Canva](https://www.canva.com/): User interface design tool.
